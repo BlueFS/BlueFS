@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Blue! 👋</h1>
 <h3 align="center">I have a hobby with coding. Contrary to my name, I’m actually quite happy and not really blue. I like to code in C and Python. As of recently I have been working on a Discord bot, but I plan to add many other projects including those that tweak with X-Plane 12.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluefs&label=Profile%20views&color=0e75b6&style=flat" alt="bluefs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluefs" alt="bluefs" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bluefs&label=Profile%20views&color=0e75b6&style=flat" alt="bluefs" /> </p>
 
 - 🔭 I’m currently working on **a discord bot.**
 
